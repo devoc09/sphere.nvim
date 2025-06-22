@@ -5,11 +5,11 @@
 
 NeoVim dark colorscheme.
 
-## Screenshot
-<div align="center">
-    <img src="")
-" />
-</div>
+<!-- ## Screenshot -->
+<!-- <div align="center"> -->
+<!--     <img src="") -->
+<!-- " /> -->
+<!-- </div> -->
 
 
 ## Install
