@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>☄️ sphere.nvim ☄️</h1>
+    <h1>☄️ sphere.vim ☄️</h1>
 </div>
 
 
-NeoVim dark colorscheme.
+Vim dark colorscheme.
 
 <!-- ## Screenshot -->
 <!-- <div align="center"> -->
@@ -15,12 +15,12 @@ NeoVim dark colorscheme.
 ## Install
 ### Using `lazy.nvim`
 ```lua
-{ 'devoc09/sphere.nvim' }
+{ 'devoc09/sphere.vim' }
 ```
 
 ### Using `vim-plug`
 ```vim
-Plug 'devoc09/sphere.nvim'
+Plug 'devoc09/sphere.vim'
 ```
 
 ## Config
