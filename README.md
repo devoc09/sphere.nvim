@@ -5,11 +5,11 @@
 
 Vim dark colorscheme.
 
-<!-- ## Screenshot -->
-<!-- <div align="center"> -->
-<!--     <img src="") -->
-<!-- " /> -->
-<!-- </div> -->
+## Screenshot
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/70845d4a-10e3-435e-bf4f-98e0756ca8fa")
+" />
+</div>
 
 
 ## Install
