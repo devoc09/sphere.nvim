@@ -84,7 +84,7 @@ if has('termguicolors') && &termguicolors
   hi debugBreakpoint guifg=#1d1c1e guibg=#fe95a0 gui=NONE cterm=NONE
   hi Cursor guifg=#000000 guibg=#dadada gui=NONE cterm=NONE
   hi lCursor guifg=#1d1c1e guibg=#418c72 gui=NONE cterm=NONE
-  hi CursorLine guifg=NONE guibg=#344359 gui=NONE cterm=NONE
+  hi CursorLine guifg=NONE guibg=#2F2D30 gui=NONE cterm=NONE
   hi CursorColumn guifg=NONE guibg=#3a392f gui=NONE cterm=NONE
   hi Folded guifg=#ccb08f guibg=#5c4f40 gui=NONE cterm=NONE
   hi ColorColumn guifg=NONE guibg=#736350 gui=NONE cterm=NONE
